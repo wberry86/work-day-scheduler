@@ -8,6 +8,9 @@
   * HTML
   * CSS
   * JavaScript
+  * jQuery
+  * Bootstrap
+  * MomentJS
 
 
 ### Link to Website
